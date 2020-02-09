@@ -1,6 +1,6 @@
 # LeetCode
 
-This is a summary of my personal LeetCode problems' solutions
+This is a summary of my LeetCode problems' solutions
 
 | # | Problem | Solution | Difficiulty |
 |:-:|:-:|:-:|:-:|
