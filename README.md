@@ -4,5 +4,5 @@ This is a summary of my LeetCode problems' solutions
 
 | # | Problem | Solution | Difficiulty |
 |:-:|:-:|:-:|:-:|
-|1|a|b|c|
+| 1 | Two Sum (https://leetcode.com/problems/unique-number-of-occurrences/) | C++(#1, #2) | Easy |
 
