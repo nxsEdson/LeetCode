@@ -8,4 +8,4 @@ This is a summary of my LeetCode problems' solutions
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | C++([#1](./solution/2_1.cpp))|Medium|
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | C++([#1](./solution/3_1.cpp))|Medium|
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | C++([#1](./solution/4_1.cpp))|Hard|
-| 5 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | C++([#1](./solution/7_1.cpp))|Easy|
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | C++([#1](./solution/7_1.cpp))|Easy|
