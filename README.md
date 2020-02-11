@@ -14,3 +14,4 @@ This is a summary of my LeetCode problems' solutions
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | C++([#1](./solution/17_1.cpp))|Medium|
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | C++([#1](./solution/19_1.cpp))|Medium|
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | C++([#1](./solution/66_1.cpp))|Easy|
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | C++([#1](./solution/69_1.cpp))|Easy|
